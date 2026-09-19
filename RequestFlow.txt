@@ -1,0 +1,11 @@
+﻿Controller
+    ↓
+IUnitOfWork
+    ↓
+IDepartmentRepository
+    ↓
+DepartmentRepository
+    ↓
+GenericRepository
+    ↓
+DbContext
